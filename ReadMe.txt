@@ -11,7 +11,7 @@ The characters can be stored in "arcadia_hunger_games\HungerGames\headshots\STOR
 
 Characters placed in "arcadia_hunger_games\HungerGames\headshots" will be included in the games, and can be placed into folders within this folder in order to determine "districts" (groups for the characters). If characters are not assigned a district, the program will give them one.
 
-
+Images of each round are stored in the "game_rounds" folder, for ease of sharing.
 
 Issues:
 	This program is unfinished, and therefore has certain elements that need work.
