@@ -1,0 +1,29 @@
+AU HUNGERGAMES 
+
+
+Make events 
+	flood
+	fire
+	landslide
+	darkness
+	squirrels
+	mutts
+	dark beasts?
+	corruption wave
+	evil flower corruption thing
+	
+	
+Make interactions
+	think of home
+	questions sanity
+	lost spirits
+	sewer rat curse 
+	
+	
+Add suicide pact victories
+Make more than 2 images appear for 3 and 4 cat interactions
+Add the event functions
+Add end stats
+Add current player stats
+Add district colour bar
+
